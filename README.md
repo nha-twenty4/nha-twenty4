@@ -48,10 +48,42 @@
 
 ### 📊 Proof of Grind
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nha-twenty4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nha-twenty4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,figma,nodejs,vite&theme=dark" alt="Tech Stack" />
+</a>
 </div>
+<br/>
 
 <p align="center">
   <sub>Generated with pure aura via <strong>GitZ — Gen-Z Custom GitHub Studio</strong></sub>
 </p>
+
+<!-- ==================== DYNAMIC HEADER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35&height=180&section=header&text=twenty4%20%E2%9A%A1&fontSize=44&fontAlignY=38&desc=Visual%20Architecture%20%C2%B7%20Spatial%20Portfolios%20%C2%B7%20Creative%20Engineering&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+
+  <br/>
+
+  <a href="https://github.com/nha-twenty4">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=hey%2C+i'm+twenty4;crafting+visual-first+architecture+portfolios;spatial+design+%26+high-end+web+experiences;creative+developer+at+LUXH-WORK" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <code>he/him</code> &nbsp;·&nbsp;
+    <code>📍 Cambodia 🇰🇭</code> &nbsp;·&nbsp;
+    <code>🏛️ LUXH-WORK</code>
+  </p>
+</div>
+
+<!-- ==================== TERMINAL CARD ==================== -->
+```zsh
+┌──(twenty4@LUXH-WORK)-[~]
+└─$ neofetch --aura
+
+   .---.       identity: twenty4 (@nha-twenty4)
+  /     \      discipline: Visual-First Creative Technologist & Spatial UI
+ | () () |     headquarters: Cambodia 🇰🇭
+  \  -  /      flagship: LUXH-WORK Architecture & Visualization
+   '---'       core_stack: TypeScript, React, Next.js, Tailwind, Three.js
+               developer_aura: +48,900 pts (verified cooker)
+               october_sprint: 48 contributions (zero grass touched 💀)
